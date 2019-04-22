@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="slycalendar_defBackgroundColor">#ffffff</color>
+    <color name="slycalendar_defHeaderColor">#2962ff</color>
+    <color name="slycalendar_defHeaderTextColor">#ffffff</color>
+    <color name="slycalendar_defTextColor">#4981D2</color>
+    <color name="slycalendar_defSelectedColor">#2962ff</color>
+    <color name="slycalendar_defSelectedTextColor">#ffffff</color>
+    <color name="cinza">#D3D3D3</color>
+</resources>
