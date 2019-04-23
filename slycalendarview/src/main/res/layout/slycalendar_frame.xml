@@ -124,33 +124,34 @@
 
             <TextView
                 android:id="@+id/txtCancel"
-                android:layout_width="169dp"
+                android:layout_width="160dp"
                 android:layout_height="55dp"
                 android:background="@drawable/border_line_button"
                 android:fontFamily="sans-serif-medium"
                 android:foreground="?android:attr/selectableItemBackground"
                 android:gravity="center"
                 android:paddingLeft="12dp"
-                android:paddingRight="12dp"
+                android:paddingRight="6dp"
                 android:text="@string/slycalendar_cancelar"
                 android:textAllCaps="true"
                 android:textColor="@color/slycalendar_defTextColor" />
 
             <TextView
                 android:id="@+id/txtSave"
-                android:layout_width="169dp"
+                android:layout_width="160dp"
                 android:layout_height="55dp"
-                android:layout_marginLeft="30dp"
-                android:layout_marginRight="5dp"
-                android:background="@drawable/border_line_button"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="7dp"
+                android:background="@drawable/background_blue"
                 android:fontFamily="sans-serif-medium"
                 android:foreground="?android:attr/selectableItemBackground"
                 android:gravity="center"
                 android:paddingLeft="12dp"
                 android:paddingRight="12dp"
-                android:text="@string/slycalendar_continue"
+                android:text="@string/slycalendar_save"
+                android:textColor="#FFFFFF"
                 android:textAllCaps="true"
-                android:textColor="@color/slycalendar_defTextColor" />
+                 />
 
         </LinearLayout>
 
