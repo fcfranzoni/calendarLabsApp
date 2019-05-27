@@ -115,17 +115,12 @@
                 android:textAllCaps="true"
                 android:textColor="@color/slycalendar_defHeaderColor" />
 
-            <FrameLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-
-                android:layout_weight="1" />
-
 
             <TextView
                 android:id="@+id/txtCancel"
-                android:layout_width="160dp"
+                android:layout_width="140dp"
                 android:layout_height="55dp"
+                android:layout_marginLeft="5dp"
                 android:background="@drawable/border_line_button"
                 android:fontFamily="sans-serif-medium"
                 android:foreground="?android:attr/selectableItemBackground"
@@ -138,9 +133,9 @@
 
             <TextView
                 android:id="@+id/txtSave"
-                android:layout_width="160dp"
+                android:layout_width="140dp"
                 android:layout_height="55dp"
-                android:layout_marginLeft="25dp"
+                android:layout_marginLeft="15dp"
                 android:layout_marginRight="7dp"
                 android:background="@drawable/background_blue"
                 android:fontFamily="sans-serif-medium"
